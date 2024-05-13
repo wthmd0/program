@@ -135,7 +135,7 @@
             this.button7.Name = "button7";
             this.button7.Size = new System.Drawing.Size(124, 56);
             this.button7.TabIndex = 8;
-            this.button7.Text = "Ліва частина";
+            this.button7.Text = "Права частина";
             this.button7.UseVisualStyleBackColor = false;
             this.button7.Click += new System.EventHandler(this.button7_Click);
             // 
@@ -147,7 +147,7 @@
             this.button8.Name = "button8";
             this.button8.Size = new System.Drawing.Size(124, 56);
             this.button8.TabIndex = 7;
-            this.button8.Text = "Права частина";
+            this.button8.Text = "Ліва частина";
             this.button8.UseVisualStyleBackColor = false;
             this.button8.Click += new System.EventHandler(this.button8_Click);
             // 
